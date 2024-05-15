@@ -1,6 +1,6 @@
 # Statistics Course in Data Science
 
-Welcome to the repository of the Statistics for Data Science course I have taken at the University of Vienna! This repository contains materials related to the lectures and exercises for the course.
+Welcome to the repository of the Statistics for Data Science course I took at the University of Vienna in the 2023 winter semester with Prof. Lukas Steinberger! 😊 This repository contains materials related to the lectures and exercises for the course.
 
 ## Contents
 
@@ -52,11 +52,6 @@ The `Lectures` folder contains lecture materials as slides.
 
 ## Exercises
 
-The `exercises` folder contains practical exercises and assignments for hands-on practice. 
-Some of the homeworks involved programming tasks that I completed using Jupyter Notebook format, making it simpler to do and turn in.
-
-## Exercises
-
 The `Exercises` folder contains various homework assignments and the take-home exam. Below are the subfolders:
 
 ### EX2
@@ -84,5 +79,6 @@ Feel free to explore each folder for specific exercises and assignments.
 
 ## Additional Information
 
-Feel free to explore the materials provided in this repository. If you have any questions or feedback, please don't hesitate to reach out!
+This course was taken in the 2023 winter semester, and the instructor was Prof. Lukas Steinberger. 📚
 
+If you have any questions or feedback, please don't hesitate to reach out!
