@@ -82,3 +82,5 @@ Feel free to explore each folder for specific exercises and assignments.
 This course was taken in the 2023 winter semester, and the instructor was Prof. Lukas Steinberger. 📚
 
 If you have any questions or feedback, please don't hesitate to reach out!
+
+[Course Link](https://ufind.univie.ac.at/en/course.html?lv=053614&semester=2023W)
