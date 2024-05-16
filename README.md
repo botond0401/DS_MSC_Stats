@@ -75,7 +75,7 @@ The `Exercises` folder contains various homework assignments and the take-home e
 ### TakeHomeExam
 - This folder contains my take-home exam for the course.
 
-Feel free to explore each folder for specific exercises and assignments.
+I solved the homework assignments using Python. Feel free to explore each folder for specific exercises and assignments.
 
 ## Additional Information
 
