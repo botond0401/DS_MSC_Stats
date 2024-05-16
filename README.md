@@ -52,7 +52,8 @@ The `Lectures` folder contains lecture materials as slides.
 
 ## Exercises
 
-The `Exercises` folder contains various homework assignments and the take-home exam. Below are the subfolders:
+The `Exercises` folder contains various homework assignments and the take-home exam. I solved the homework assignments using Python.🐍
+Below are the subfolders:
 
 ### EX2
 - This folder contains exercises for the second assignment.
@@ -74,8 +75,6 @@ The `Exercises` folder contains various homework assignments and the take-home e
 
 ### TakeHomeExam
 - This folder contains my take-home exam for the course.
-
-I solved the homework assignments using Python.🐍
 
 Feel free to explore each folder for specific exercises and assignments.
 
