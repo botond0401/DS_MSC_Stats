@@ -1,6 +1,6 @@
 # Statistics Course in Data Science
 
-Welcome to the repository of the Statistics for Data Science course I took at the University of Vienna in the 2023 winter semester with Prof. Lukas Steinberger! 😊 This repository contains materials related to the lectures and exercises for the course.
+Welcome to the repository of the Statistics for Data Science course I took at the University of Vienna! 😊 This repository contains materials related to the lectures and exercises for the course.
 
 ## Contents
 
